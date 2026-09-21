@@ -57,7 +57,8 @@ public class TreeSetExample {
 
 ## Output:
 
-<img width="787" height="452" alt="image" src="https://github.com/user-attachments/assets/e9537328-cfd9-43a4-b8f4-44a02e352aaf" />
+<img width="705" height="516" alt="image" src="https://github.com/user-attachments/assets/7503a21d-100a-4b0d-b1f4-782e407eb41a" />
+
 
 
 ## Result:
