@@ -54,7 +54,9 @@ public class HashSetToArrayListUser {
 
 ## Output:
 
-<img width="670" height="467" alt="image" src="https://github.com/user-attachments/assets/4fe3e671-95d6-4dd4-868d-572eb37fc56d" />
+
+<img width="573" height="626" alt="image" src="https://github.com/user-attachments/assets/615f1641-7159-4ac5-9a02-626b0d96fcc8" />
+
 
 
 ## Result:
