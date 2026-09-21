@@ -49,7 +49,8 @@ public class FillArrayFromInput {
 ```
 ## Output:
 
-<img width="735" height="276" alt="image" src="https://github.com/user-attachments/assets/3fe69e5d-2a5a-49aa-978e-a39343dc944f" />
+<img width="755" height="265" alt="image" src="https://github.com/user-attachments/assets/3c673a84-ab75-46b9-bacf-9294587043d2" />
+
 
 
 ## Result:
