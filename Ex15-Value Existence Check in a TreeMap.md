@@ -65,7 +65,8 @@ public class DynamicTreeMapCheck {
 
 ## Output:
 
-<img width="727" height="487" alt="image" src="https://github.com/user-attachments/assets/36dda933-f34e-4e6d-9cc1-b5e361b60b95" />
+<img width="1041" height="722" alt="image" src="https://github.com/user-attachments/assets/13e11a9d-985c-4d86-8faa-0325beadcafc" />
+
 
 
 
