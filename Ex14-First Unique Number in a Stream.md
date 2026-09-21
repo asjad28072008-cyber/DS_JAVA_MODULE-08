@@ -90,10 +90,8 @@ public class FirstUniqueNumberTracker {
 ```
 ## Output:
 
-<img width="908" height="320" alt="image" src="https://github.com/user-attachments/assets/a11d051d-c8d6-41bf-9d95-be7d1a60d07d" />
 
-
-<img width="885" height="248" alt="image" src="https://github.com/user-attachments/assets/6745106d-7398-41d9-b259-76ac7ccdcd8a" />
+<img width="737" height="600" alt="image" src="https://github.com/user-attachments/assets/6399530b-d0e8-4d37-a87d-703308ebd150" />
 
 
 ## Result:
